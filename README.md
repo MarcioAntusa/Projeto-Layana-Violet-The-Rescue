@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/70963541/155258998-0af6fb9c-250f-4430-
 
 <ul>
   <li>Guilherme Henrique: https://github.com/NerdsMaxx</li>
-  <li>Márcio Antusa https://github.com/MarcioAntusa</li>
+  <li>Márcio Antusa: https://github.com/MarcioAntusa</li>
   <li>Watyson Soares: https://github.com/Watyson</li> 
 </ul>
 
